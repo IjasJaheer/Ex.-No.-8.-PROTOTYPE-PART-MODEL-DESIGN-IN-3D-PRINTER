@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![WhatsApp Image 2026-03-25 at 10 06 30 AM](https://github.com/user-attachments/assets/c291ed6a-06f2-4e6d-a768-e8bc6c1df54b)
+
+
+### Name: J IJAS
+### Register Number: 212225230102
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
